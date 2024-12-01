@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec003f2e.css",
-    "main.js": "/static/js/main.1a36669d.js",
-    "index.html": "/index.html",
-    "main.ec003f2e.css.map": "/static/css/main.ec003f2e.css.map",
-    "main.1a36669d.js.map": "/static/js/main.1a36669d.js.map"
+    "main.css": "/CodSoft/static/css/main.ec003f2e.css",
+    "main.js": "/CodSoft/static/js/main.1a36669d.js",
+    "index.html": "/CodSoft/index.html",
+    "main.ec003f2e.css.map": "/CodSoft/static/css/main.ec003f2e.css.map",
+    "main.1a36669d.js.map": "/CodSoft/static/js/main.1a36669d.js.map"
   },
   "entrypoints": [
     "static/css/main.ec003f2e.css",
